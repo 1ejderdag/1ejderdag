@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ejder Dag
+- 👀 I’m interested in iOS Mobile App Development
+- 🌱 I’m currently learning Swift and Firebase
+- 📫 How to reach me ejdrdag@gmail.com
